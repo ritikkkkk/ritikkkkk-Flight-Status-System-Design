@@ -69,12 +69,9 @@ The code is organized in a GitHub repository, with a clear README for setup inst
 The backend runs on http://localhost:5000 and the frontend on http://localhost:3000.
 This system ensures passengers are always informed about their flight status, improving their travel experience by reducing uncertainty and enhancing communication.
 
-GitHub Repository:
 
-Link to Repository
+Case Study Briefing: Flight Status and Notifications System 
 
-Case Study Briefing: Flight Status and Notifications System in short
-ChatGPT
 Case Study Briefing: Flight Status and Notifications System
 The Flight Status and Notifications System provides real-time updates and notifications to passengers about their flight status, including delays, cancellations, and gate changes.
 
