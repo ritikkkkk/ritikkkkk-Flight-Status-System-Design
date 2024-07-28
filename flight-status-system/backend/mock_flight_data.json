@@ -1,0 +1,16 @@
+[{
+        "id": 1,
+        "name": "Flight 101",
+        "status": "On Time"
+    },
+    {
+        "id": 2,
+        "name": "Flight 202",
+        "status": "Delayed"
+    },
+    {
+        "id": 3,
+        "name": "Flight 303",
+        "status": "Cancelled"
+    }
+]
